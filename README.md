@@ -37,7 +37,7 @@ A modern, secure web application for generating Ethereum and Solana wallets with
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mk016/wallet-generator.git
+git clone [https://github.com/mk016/wallet-generator.git](https://github.com/mk016/WebBaseWallet.git)
 cd wallet-generator
 ```
 
