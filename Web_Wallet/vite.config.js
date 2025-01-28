@@ -10,12 +10,19 @@ export default defineConfig({
     tailwindcss(),
     react(),
     nodePolyfills({
-      include: ['buffer']
+      include: ['buffer', 'stream', 'crypto'],
+      globals: {
+        Buffer: true,
+        global: true,
+        process: true,
+      },
     })
   ],
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, './src')
+      '@': path.resolve(__dirname, './src'),
+      stream: 'stream-browserify',
+      crypto: 'crypto-browserify'
     }
   }
 })
