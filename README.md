@@ -2,7 +2,7 @@
 
 A modern, secure web application for generating Ethereum and Solana wallets with seed phrase management.
 
-![Wallet Generator Screenshot](screenshot.png)
+![Wallet Generator Screenshot](ss.png)
 
 ## Features
 
