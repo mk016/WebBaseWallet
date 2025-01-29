@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email [your-email@example.com] or raise an issue in the repository.
+For support, email [Mahendrakumawat80224@gmail.com] or raise an issue in the repository.
 
 ## Roadmap
 
